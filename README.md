@@ -39,4 +39,4 @@ Se requieren los siguientes requisitos de hardware para ejecutar WSL 2 en Window
 
 1. Clonar el repositorio que contiene el docker con el siguiente comando:
 
-''
+'git clone https://github.com/Mickysaurio-rex/BD_Primer_Parcial.git'
