@@ -37,16 +37,6 @@ Se requieren los siguientes requisitos de hardware para ejecutar WSL 2 en Window
 
 ## Ejecución local
 
-Instrucciones detalladas sobre cómo ejecutar el proyecto localmente. Esto puede incluir pasos para la instalación de dependencias, configuración del entorno, comandos de compilación/ejecución, etc. Asegúrate de proporcionar la información necesaria para que los usuarios puedan probar y ejecutar el proyecto en su propio entorno local.
+1. Clonar el repositorio que contiene el docker con el siguiente comando:
 
-## Contribución
-
-Si deseas contribuir al proyecto, ¡estás más que bienvenido/a! Puedes abrir un problema o enviar una solicitud de extracción para sugerir cambios, corregir errores o agregar nuevas características. Asegúrate de seguir las pautas de contribución establecidas en el repositorio.
-
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la licencia]. Consulta el archivo `LICENSE` para obtener más información sobre los términos de la licencia.
-
-## Contacto
-
-Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto, puedes enviar un correo electrónico a [dirección de correo electrónico] o encontrar más información en [sitio web o enlace de contacto].
+''
