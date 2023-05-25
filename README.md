@@ -1,3 +1,8 @@
+## Creador
+* Nombre: Miguel Molina Flores
+* Codigo: 56197
+
+
 # Base de Datos para el control de la distribución de medicamentos en el sistema de la Caja Petrolera De Salud
 
 El presente proyecto busca crear una base de datos que administre y lleve un registro de la adquisición de los medicamentos esceciales para las diferentes administraciones de la Caja Petrolera de Salud en la gestión 2023. Estos medicamentos son adquiridos en subastas dentro de las instituciones.
@@ -39,4 +44,16 @@ Se requieren los siguientes requisitos de hardware para ejecutar WSL 2 en Window
 
 1. Clonar el repositorio que contiene el docker con el siguiente comando:
 
-`git clone https://github.com/Mickysaurio-rex/BD_Primer_Parcial.git`
+  `git clone https://github.com/Mickysaurio-rex/BD_Primer_Parcial.git`
+
+2. Ubicalo en una carpeta, mejor si es una recien creada, e ingresa en esta misma:
+  `cd [nombre del directorio]`
+  
+3. Levanta los servicios con los siguientes comandos:
+   `docker-compose up`
+   `docker-compose -f [nombre del archivo que tiene la configuracion del docker] up`
+
+4. Para detener los servicios:
+   `docker-compose down`
+   `docker-compose -f [nombre del archivo que tiene la configuracion del docker] down`
+    
