@@ -24,7 +24,15 @@ Es importante destacar que la Caja Petrolera de Salud es una entidad específica
 
 ## Requisitos Técnicos
 
-En esta sección se enumeran los requisitos técnicos necesarios para ejecutar el proyecto. Esto puede incluir detalles sobre el entorno de desarrollo, el lenguaje de programación utilizado, las dependencias y cualquier otra configuración relevante.
+Requisitos técnicos para ejecutar en Windows 10 o Windows 11:
+
+* Windows 11 de 64 bits: versión Home o Pro 21H2 o superior, o versión Enterprise o Education 21H2 o superior.
+* Windows 10 de 64 bits: versión Home o Pro 21H1 (compilación 19043) o superior, o versión Enterprise o Education 20H2 (compilación 19042) o superior.
+* Habilitar la función WSL 2 en Windows.
+Se requieren los siguientes requisitos de hardware para ejecutar WSL 2 en Windows 10 o Windows 11:
+* Procesador de 64 bits con Traducción de Direcciones de Segundo Nivel (SLAT).
+* 4 GB de RAM del sistema.
+* El soporte de virtualización a nivel de BIOS debe estar habilitado en la configuración del BIOS. Para obtener más información, consulta la sección de Virtualización.
 
 ## Ejecución local
 
