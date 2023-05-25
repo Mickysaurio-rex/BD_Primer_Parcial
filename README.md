@@ -27,6 +27,9 @@ Es importante destacar que la Caja Petrolera de Salud es una entidad específica
 
 ![Diagrama_Base_Datos](DiagramaBaseDatos.png)
 
+## Contraseña
+123m (para todos los servidores)
+
 ## Requisitos Técnicos
 
 Requisitos técnicos para ejecutar en Windows 10 o Windows 11:
