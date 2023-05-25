@@ -29,6 +29,7 @@ Requisitos técnicos para ejecutar en Windows 10 o Windows 11:
 * Windows 11 de 64 bits: versión Home o Pro 21H2 o superior, o versión Enterprise o Education 21H2 o superior.
 * Windows 10 de 64 bits: versión Home o Pro 21H1 (compilación 19043) o superior, o versión Enterprise o Education 20H2 (compilación 19042) o superior.
 * Habilitar la función WSL 2 en Windows.
+
 Se requieren los siguientes requisitos de hardware para ejecutar WSL 2 en Windows 10 o Windows 11:
 * Procesador de 64 bits con Traducción de Direcciones de Segundo Nivel (SLAT).
 * 4 GB de RAM del sistema.
